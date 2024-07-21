@@ -25,7 +25,7 @@ const AppModal: React.FC<AppModalProps> = ({ isOpen, onRequestClose }) => {
       <div className="content-style">
         <img src={appsImage} alt="Apps no celular" className="image-style" />
         <p className="text-style">
-          Um aplicativo, ou "app", é um programa que você pode usar em seu tablet ou celular. Existem apps para jogos, para aprender coisas novas, para falar com seus amigos e muito mais! Eles são como brinquedos digitais que ajudam você a fazer muitas coisas divertidas e interessantes.
+          Um aplicativo, ou "app", é um programa que você pode usar em seu tablet ou celular. Existem apps para jogos, para aprender coisas novas, para falar com seus amigos e muito mais! Eles são como brinquedos digitais que ajudam você a fazer muitas coisas divertidas e interessantes. Instagram, whatsapp e tiktok são exemplos de apps famosos...
         </p>
       </div>
     </Modal>
